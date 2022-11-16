@@ -29,6 +29,8 @@
    </div>
 
    <div align="center">
+ 
+<!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luisgustavoo&repo=onde-gastei-app)](https://github.com/luisgustavoo/github-readme-stats) -->
 
    
    </div>
