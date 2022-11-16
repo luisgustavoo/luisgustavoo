@@ -16,7 +16,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgustavoo&theme=dark"/>
   <br>
   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=luisgustavoo&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
-  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisgustavoo&theme=dark"/>
+  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisgustavoo&theme=dracula"/>
 
    </div>
 
