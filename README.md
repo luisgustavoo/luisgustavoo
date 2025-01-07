@@ -2,8 +2,9 @@
 
 #### Sobre
 
+Desenvolvedor mobile especializado em Flutter. 
 
-Olá! Sou Luís Gustavo, desenvolvedor mobile especializado em Flutter. Iniciei minha carreira em 2011 com Delphi e Oracle, e atualmente foco no desenvolvimento de aplicativos móveis multiplataforma.
+Iniciei minha carreira em 2011 com Delphi e Oracle, e atualmente foco no desenvolvimento de aplicativos móveis multiplataforma.
 
 
 </p>
