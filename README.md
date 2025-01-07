@@ -2,21 +2,8 @@
 
 #### Sobre
 
-🚀 Desenvolvedor Flutter & Dart | Apaixonado por Desenvolvimento Mobile
 
-👋 Olá! Meu nome é Luis Gustavo e sou um desenvolvedor apaixonado por criar experiências incríveis no mundo mobile.
-
-💼 Com uma sólida experiência em desenvolvimento, trago mais de uma década de expertise para o cenário tecnológico. Desde 2011, estive imerso no universo do desenvolvimento de software, inicialmente focando em Delphi e Oracle, onde aprendi os fundamentos e a importância da robustez e eficiência nos sistemas.
-
-📱 Em setembro de 2022, fiz a transição para o emocionante mundo do desenvolvimento móvel, abraçando a tecnologia Flutter e a linguagem Dart. Desde então, tenho mergulhado de cabeça em projetos desafiadores, buscando sempre inovar e superar expectativas.
-
-💡 Minha paixão pelo desenvolvimento mobile vai além do código. Estou constantemente buscando aprender e aplicar as melhores práticas de UX/UI para criar aplicativos intuitivos e envolventes que proporcionem uma experiência excepcional aos usuários.
-
-✨ Além do meu comprometimento com a excelência técnica, sou um colaborador dedicado. Acredito no poder do trabalho em equipe e estou sempre pronto para compartilhar conhecimento e aprender com meus colegas.
-
-💬 Estou aberto a novas oportunidades e desafios que me permitam continuar crescendo profissionalmente e contribuindo para o desenvolvimento de soluções inovadoras no mundo mobile.
-
-📩 Se você está buscando um desenvolvedor comprometido, apaixonado e pronto para enfrentar desafios, adoraria conectar-me! Vamos criar algo incrível juntos.
+Olá! Sou Luís Gustavo, desenvolvedor mobile especializado em Flutter. Iniciei minha carreira em 2011 com Delphi e Oracle, e atualmente foco no desenvolvimento de aplicativos móveis multiplataforma.
 
 
 </p>
