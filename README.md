@@ -4,8 +4,6 @@
 
 Desenvolvedor mobile especializado em Flutter. 
 
-Iniciei minha carreira em 2011 com Delphi e Oracle, e atualmente foco no desenvolvimento de aplicativos móveis multiplataforma.
-
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luis%20Gustavo-4361EE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-gustavo-1a669942/)](https://www.linkedin.com/in/luis-gustavo-1a669942/) 
