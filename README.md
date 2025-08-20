@@ -2,7 +2,11 @@
 
 #### Sobre
 
-Desenvolvedor mobile especializado em Flutter. 
+Sou desenvolvedor de software com mais de 10 anos de experiência, tendo iniciado minha carreira em 2011 com Delphi e Oracle, desenvolvendo aplicações internas para diversos setores (logística, financeiro, comercial, marketing) e realizando integrações com o ERP Winthor.
+
+Atuo com desenvolvimento mobile em Flutter, desde a criação de novas funcionalidades até a publicação e gerenciamento de aplicativos nas lojas Google Play e App Store. Tenho experiência em CI/CD (Codemagic, Shorebird), uso de Flavors para diferentes ambientes de teste, além de participação ativa em metodologias ágeis (Scrum) junto a equipes multidisciplinares.
+
+Minha trajetória combina um background sólido em sistemas corporativos e banco de dados com experiência atual em desenvolvimento mobile moderno, o que me permite entregar soluções completas, escaláveis e integradas. Estou sempre em busca de novos desafios para aplicar minha expertise e continuar evoluindo como profissional de tecnologia.
 
 <div align="center">
 
