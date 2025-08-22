@@ -1,10 +1,10 @@
 ### Olá 👋
 
-Sou desenvolvedor de software com mais de 10 anos de experiência, tendo iniciado minha carreira em 2011 com Delphi e Oracle, desenvolvendo aplicações internas para diversos setores (logística, financeiro, comercial, marketing) e realizando integrações com o ERP Winthor.
+Sou desenvolvedor de software especializado em desenvolvimento mobile com Flutter, atuando desde a criação de novas funcionalidades até a publicação e gerenciamento de aplicativos nas lojas Google Play e App Store. Tenho experiência em CI/CD (Codemagic, Shorebird), utilização de Flavors para diferentes ambientes e configurações, além de participação ativa em metodologias ágeis (Scrum) junto a equipes multidisciplinares.
 
-Atuo com desenvolvimento mobile em Flutter, desde a criação de novas funcionalidades até a publicação e gerenciamento de aplicativos nas lojas Google Play e App Store. Tenho experiência em CI/CD (Codemagic, Shorebird), utilização de Flavors para diferentes ambientes e configurações, além de participação ativa em metodologias ágeis (Scrum) junto a equipes multidisciplinares.
+Antes de migrar para o ecossistema mobile, iniciei minha carreira em 2011 trabalhando com Delphi e Oracle, desenvolvendo aplicações internas para diversos setores (logística, financeiro, comercial, marketing) e realizando integrações com o ERP Winthor. Também atuei fortemente na área de banco de dados, criando e otimizando queries, tabelas, triggers, procedures e relatórios gerenciais para apoiar a tomada de decisão.
 
-Minha trajetória combina um background sólido em sistemas corporativos e banco de dados com experiência atual em desenvolvimento mobile moderno, o que me permite entregar soluções completas, escaláveis e integradas. Estou sempre em busca de novos desafios para aplicar minha expertise e continuar evoluindo como profissional de tecnologia.
+Minha trajetória combina a expertise atual em desenvolvimento mobile moderno com um background sólido em sistemas corporativos e banco de dados, o que me permite entregar soluções completas, escaláveis e integradas. Estou sempre em busca de novos desafios para aplicar minha experiência e continuar evoluindo como profissional de tecnologia.
 
 <div align="center">
 
